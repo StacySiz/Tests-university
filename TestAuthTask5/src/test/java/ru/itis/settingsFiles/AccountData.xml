@@ -3,6 +3,6 @@
     <LoginUrl>https://www.tumblr.com/login</LoginUrl>
     <LogoutUrl>https://www.tumblr.com/logout</LogoutUrl>
     <ProfileUrl>https://www.tumblr.com/blog/canigetmaxscoreplz</ProfileUrl>
-    <Email>kurica_jenshina@mail.ru</Email>
-    <Password>Sosich2018</Password>
+    <Email>YOUR_EMAIL</Email>
+    <Password>YOUR_PASSWORD</Password>
 </Settings>
